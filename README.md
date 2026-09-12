@@ -2,7 +2,7 @@
 
 <div align="center">
   <!-- Top Banner (Create a banner using Canva or Figma and link it here) -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=YOUR%20NAME&fontSize=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=NISHANT%20SAVALIYA&fontSize=50" width="100%" />
 
   <br />
 
