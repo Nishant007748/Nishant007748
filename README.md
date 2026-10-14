@@ -57,7 +57,7 @@
         <img src="https://img.shields.io/badge/Spring--Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
         <img src="https://img.shields.io/badge/Turborepo-EF4444?style=flat-square&logo=turborepo&logoColor=white" />
       </p>
-      <a href="https://github.com/Nishant007748/polyglot-trading-platform">
+      <a href="https://github.com/Nishant007748/polyglot-trading-platform-v2">
         <img src="https://img.shields.io/badge/%F0%9F%90%A7%20EXPLORE%20REPOSITORY-00D2FF?style=for-the-badge&logo=github&logoColor=black" />
       </a>
     </td>
